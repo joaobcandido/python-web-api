@@ -1,0 +1,8 @@
+{
+  "editor.inlineSuggest.enabled": "off",
+  "editor.suggest.showInlineDetails": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "github.copilot.inlineSuggest.enable": "off",
+  "github.copilot.enable": false
+}
